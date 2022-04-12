@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_common_dialog">#FAFAFF</color>
+    <color name="bg_bottom_dialog">#BFFAFAFF</color>
+    <color name="bg_common_dialog_left_button">#15000000</color>
+    <color name="bg_common_dialog_right_button">#4B85FA</color>
+
+
+    <color name="common_title_color">#141414</color>
+    <color name="common_title_color_night">#F5F6FF</color>
+    <color name="common_message_color">#66141414</color>
+    <color name="common_message_color_night">#66F5F6FF</color>
+    <color name="common_cut_line_color">#19000000</color>
+    <color name="common_cut_line_color_night">#1AFFFFFF</color>
+    <color name="common_tap_clear_color">#EFFAFAFF</color>
+    <color name="common_tap_clear_color_night">#EF18181A</color>
+    <color name="common_loading_color">#141414</color>
+    <color name="common_loading_color_night">#FFFFFF</color>
+
+    <color name="bg_setting_top">#F0F1FA</color>
+    <color name="bg_setting_button_gray_normal">#FF494A4D</color>
+    <color name="bg_setting_button_blue">#FF4B85FA</color>
+    <color name="bg_route_select_blue">#304B85FA</color>
+    <color name="bg_setting_button_gray">#D5D5D8</color>
+    <color name="bg_setting">#FAFAFF</color>
+    <color name="baidu_sdk_cl_bg_d_mm">#DDDDDD</color>
+</resources>

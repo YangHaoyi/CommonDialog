@@ -1,0 +1,21 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven {
+            allowInsecureProtocol = true
+            url = "http://ntssy-lxqs01.nts.neusoft.local:8081/nexus/content/groups/public"
+        }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+
+        maven { url 'https://maven.aliyun.com/repository/google' }
+
+        maven { url 'https://maven.aliyun.com/repository/jcenter' }
+//
+        maven { url 'https://www.jitpack.io' }
+        flatDir {
+            dirs 'sdk/libs','baselibrary/libs'
+        }
+    }
+}
+rootProject.name = "CommonDialog"
+include ':app'
